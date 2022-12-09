@@ -1,16 +1,13 @@
 # awesome_onboarding_screen
 
-A new Flutter project.
+Onboarding is a great feature to briefly introduce users to your app's features. ⭐️👾 
 
-## Getting Started
+## Design & Packages
 
-This project is a starting point for a Flutter application.
+I chose to make this design available for free on Figma. 
+- [Figma Design ](https://www.figma.com/file/ZMqvetZEg5sOuK51PKMpNE/Onboarding-(Community)?node-id=0%3A1&t=9pbWADTTMXAKxrWh-0)
 
-A few resources to get you started if this is your first Flutter project:
+- [I use introduction_screen packages ](https://pub.dev/packages/introduction_screen)
+- [You can access the detailed article on my medium account.](https://hasibezafer.medium.com/awesome-onbarding-page-with-flutter-d204c337c5de)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
